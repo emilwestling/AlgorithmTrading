@@ -8,7 +8,7 @@ The repository is organized into two main folders:
 This folder contains notebooks related to algorithmic trading strategies and datasets with sentiment data. We explore various investment approaches, analyze market data, and implement trading algorithms.
 #### Key projects:
 ##### LSTM Portfolio: Builds a portfolio out of the S&P 500 using LSTM deep-learning models. 
-##### Autoregressive Stock Prediction: Uses autoregressive models to predict stock prices looking at historical pricing data along with various exogenous variables. Here's a link to an interactive plot of the results: [Plot](emilwestling.com/QuantitativeFinance/AlgorithmTrading/plot.html)
+##### Autoregressive Stock Prediction: Uses autoregressive models to predict stock prices looking at historical pricing data along with various exogenous variables. Here's a link to an interactive plot of the results: [Plot](https://www.emilwestling.com/QuantitativeFinance/AlgorithmTrading/plot.html)
 ## Options Valuation
 In this folder, we delve into options pricing models and valuation techniques. Specifically, we examine the Black-Scholes equation and solve it using numerical analysis.
 #### Key topics:
